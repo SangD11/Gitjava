@@ -3,5 +3,7 @@ public class javaNew {
         String txt = "My new Git practice";
         System.out.println(txt.toUpperCase());   // Outputs "HELLO WORLD"
         System.out.println(txt.toLowerCase());   // Outputs "hello world"
+        // My practice
+        // read only
     }
 }
